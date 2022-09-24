@@ -1,5 +1,9 @@
 # test-task-ecofin
 
+## Deploy
+
+[test-task-ecofin](https://dovlin-m.github.io/test-task-ecofin/)
+
 ## Build Setup
 
 ```bash
