@@ -33,12 +33,12 @@ import CardUser from "../components/CardUser";
 export default {
   name: "protected",
 
-  middleware: ['auth'],
-
   components: {
     CardUser,
     HeaderComponent
   },
+
+  middleware: ['auth'],
 
   data: () => ({
     screen: false
